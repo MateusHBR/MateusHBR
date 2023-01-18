@@ -10,11 +10,12 @@
 ---
 
 - 😄 Pronouns: he/him
-- 📫 How to reach me: you could send me a e-mail at: mateusmorais.r@gmail.com or contact-me on linkedin;
-- 🔭 I’m currently working on indaband, helping my team to develop and architecture our social plataform;
 - 🧑‍🦱 My name is Mateus, I am a software engineer and currently live in Brazil;
-- 💻 I work with development for at least 3 years, I have experience with some technologies but I stand out with Dart/Flutter and Swift/SwiftUI;
-- ✨ I love coding.
+- ✨ I love coding, listen to music, and stay with my friends. But when we do it together is amazing.
+- 🔭 I’m currently working on indaband, helping my team to architecture and develop our social plataform;
+- 💻 I work with development for at least 3 years, I have experience with some technologies but I stand out with Dart/Flutter;
+- 📖 I'm currently learning more about native tecnologies like Swift/SwiftUI;
+- 📫 How to reach me: you could send me a e-mail at: mateusmorais.r@gmail.com or contact-me on linkedin;
 
 ---
 ### Technologies & Tools
