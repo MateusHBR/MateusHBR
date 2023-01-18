@@ -3,10 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MateusHBR)](https://github.com/MateusHBR) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-de-morais-ramalho-0a48b6169/)](https://www.linkedin.com/in/mateus-de-morais-ramalho-0a48b6169/) 
 
-<a href="https://github.com/MateusHBR/MateusHBR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MateusHBR&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
-</a>
-
 ---
 
 - 😄 Pronouns: he/him
