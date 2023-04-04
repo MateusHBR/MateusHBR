@@ -10,7 +10,7 @@
 - ✨ I love coding, listen to music, and stay with my friends. But when we do it together is amazing.
 - 🔭 I’m currently working on indaband, helping my team to architecture and develop our social plataform;
 - 💻 I work with development for at least 3 years, I have experience with some technologies but I stand out with Dart/Flutter;
-- 📖 I'm currently learning more about native tecnologies like Swift/SwiftUI;
+- 📖 I'm currently learning more about native tecnologies like Swift/SwiftUI and Rust;
 - 📫 How to reach me: you could send me a e-mail at: mateusmorais.r@gmail.com or contact-me on linkedin;
 
 ---
