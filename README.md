@@ -16,12 +16,12 @@
 ---
 ### Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swiftui&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Mac-OS-informational?style=flat&logo=macos&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=9400D3)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/CI/CD-Bitrise-informational?style=flat&logo=bitrise&logoColor=white&color=9400D3)
 ![](https://img.shields.io/badge/CI/CD-GithubActions-informational?style=flat&logo=github&logoColor=white&color=9400D3)
